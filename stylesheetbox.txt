@@ -1,0 +1,12 @@
+div{
+width: 150px;
+height: 150px,
+backround:  lightgray ;
+margin: 20px
+}
+#position{
+    position: absolute;
+    top:0px;
+    left:500px;
+    botton:20px solid black;
+}
